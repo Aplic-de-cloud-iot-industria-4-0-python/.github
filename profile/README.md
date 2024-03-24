@@ -74,6 +74,12 @@ Todos os nossos projetos são licenciados sob a [Licença MIT](LICENSE), a menos
 
 *Dúvidas ou sugestões? Entre em contato conosco em estevamsouzalaureth@gmail.com*
 
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<div align="center">
+    
+<h2 align="center"> 🔗 Connect with Us </h2>
+
 <p align="left">
 <a href="mailto:estevamsouzalaureth@gmail.com" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
@@ -94,3 +100,5 @@ Todos os nossos projetos são licenciados sob a [Licença MIT](LICENSE), a menos
   <img height="30" src = "https://img.shields.io/badge/YouTube-%23E20036.svg?&style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 <br />
+
+</div>
