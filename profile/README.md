@@ -8,7 +8,6 @@
 <p align="center"><a href="https://devprotocol.xyz/"><img src="https://raw.githubusercontent.com/Aplic-de-cloud-iot-industria-4-0-python/.github/main/profile/Dev--animated.gif" width="20%"></a></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gilroy&weight=700&size=40&pause=1000&color=F7F7F7&width=600&height=60&lines=Bem+vindo+à+Aplic+de+Cloud+IoT+Indústria+4.0+em+Python+%F0%9F%8C%9F)](https://git.io/typing-svg)
-  
 
 Seja bem-vindo à organização Aplic de Cloud IoT Indústria 4.0 em Python! Somos uma comunidade dedicada ao desenvolvimento de soluções de Internet das Coisas (IoT) e computação em nuvem para impulsionar a indústria 4.0.
 
