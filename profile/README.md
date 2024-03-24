@@ -70,8 +70,6 @@ Se você tiver alguma dúvida ou precisar de suporte, entre em contato com (nome
 
 Todos os nossos projetos são licenciados sob a [Licença MIT](LICENSE), a menos que especificado de outra forma.
 
----
-
 *Dúvidas ou sugestões? Entre em contato conosco em estevamsouzalaureth@gmail.com*
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
