@@ -2,6 +2,18 @@
   <img src="https://th.bing.com/th/id/R.a81760ac4107fb0027ff457feeae266a?rik=Cl5MUx%2fnxnobCA&pid=ImgRaw&r=0" alt="Aplic de Cloud IoT Indústria 4.0 em Python">
 </p>
 
+<!-- markdownlint-disable-next-line -->
+<p align="center"><a href="https://devprotocol.xyz/"><img src="https://raw.githubusercontent.com/Aplic-de-cloud-iot-industria-4-0-python/.github/main/profile/Dev--animated.gif" width="20%"></a></p>
+
+<p align="center">
+<a href="https://twitter.com/"><img src = "https://img.shields.io/twitter/follow/poweredbyClubs?style=social" width="17%" target="blank"></a>
+<a href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" width="9.2%" target="blank"></a>
+<a href="https://stakes.social/"><img src="https://custom-icon-badges.herokuapp.com/badge/Stakes.social-black.svg?style=flat&logo=stakes.social" width="14%" target="blank"></a>
+<a href="https://discord.gg/2htEfJyA" alt="community-discord-server"><img src="https://img.shields.io/discord/547215761341546497?logo=discord&?style=flat&colorB=5865F2" target="blank" width="14%" /></a>
+</p>
+<br>
+<br>
+
 # Bem-vindo à Aplic de Cloud IoT Indústria 4.0 em Python
 
 Seja bem-vindo à organização Aplic de Cloud IoT Indústria 4.0 em Python! Somos uma comunidade dedicada ao desenvolvimento de soluções de Internet das Coisas (IoT) e computação em nuvem para impulsionar a indústria 4.0.
