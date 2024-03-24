@@ -74,5 +74,23 @@ Todos os nossos projetos são licenciados sob a [Licença MIT](LICENSE), a menos
 
 *Dúvidas ou sugestões? Entre em contato conosco em estevamsouzalaureth@gmail.com*
 
-<a href="https://discord.gg/2htEfJyA" alt="community-discord-server"><img src="https://img.shields.io/discord/547215761341546497?logo=discord&?style=flat&colorB=5865F2" target="blank" width="14%" /></a>
-
+<p align="left">
+<a href="mailto:estevamsouzalaureth@gmail.com" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+  <a href="https://discord.gg/2htEfJyA" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/Aplic-de-cloud-iot-industria-4-0-python" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Aplic-de-cloud-iot-industria-4-0-python" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/Aplic-de-cloud-iot-industria-4-0-python" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="https://www.youtube.com/channel/Aplic-de-cloud-iot-industria-4-0-python?sub_confirmation=1" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/YouTube-%23E20036.svg?&style=for-the-badge&logo=YouTube&logoColor=white">
+</a>
+<br />
