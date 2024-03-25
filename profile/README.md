@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://github.com/WebXDAO/.github/assets/73097560/2f2f4777-292d-4eaf-9ecd-87d0fb8142a6" width="60px"> Aplic de Cloud IoT Indústria 4.0 em Python Community <img src="https://github.com/WebXDAO/.github/assets/73097560/2f2f4777-292d-4eaf-9ecd-87d0fb8142a6" width="60px"> </h1>
 
 <p align="center">
-  <img src="https://th.bing.com/th/id/R.a81760ac4107fb0027ff457feeae266a?rik=Cl5MUx%2fnxnobCA&pid=ImgRaw&r=0" alt="Aplic de Cloud IoT Indústria 4.0 em Python" style="width: 80%;">
+  <img src="https://th.bing.com/th/id/R.a81760ac4107fb0027ff457feeae266a?rik=Cl5MUx%2fnxnobCA&pid=ImgRaw&r=0" alt="Aplic de Cloud IoT Indústria 4.0 em Python" style="width: 50%;">
 </p>
 
 <!-- markdownlint-disable-next-line -->
