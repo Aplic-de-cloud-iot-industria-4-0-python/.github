@@ -32,15 +32,6 @@ Se você estiver interessado em contribuir com nossos projetos, fique à vontade
 ---------------------
 Consulte o arquivo LICENSE em cada repositório para obter mais informações.
 
-## Contato
----------------------
-Se você tiver alguma dúvida ou precisar entrar em contato conosco, você pode nos encontrar nos seguintes canais:
-
-- Email: [estevamsouzalaureth@gmail.com.com]
-- LinkedIn: [https:/linkedin.com/in/estevam-souza]
-
-Estamos ansiosos para colaborar com você!
-
 <br>
 
 <p align="center">Join our <a href="https://github.com/Aplic-de-cloud-iot-industria-4-0-python/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&projects=&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">GitHub Organization :octocat:</a> and continue to contribute to our Open Source Software ✨</p>
