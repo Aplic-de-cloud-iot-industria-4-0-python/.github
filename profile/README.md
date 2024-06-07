@@ -39,20 +39,15 @@ Consulte o arquivo LICENSE em cada repositório para obter mais informações.
 
 <p align="center"><strong>Connect With Us</strong></p>
 <p align="center"> 
-<a href=""><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
-&nbsp;
-<a href=""><img alt="discord_logo" 
+<a href="https://discord.gg/METNddce"><img alt="discord_logo" 
 src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40" height="50"/></a>
 &nbsp;
-<a href=""><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-&nbsp;
-<a href=""><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+<a href="https://github.com/Aplic-de-cloud-iot-industria-4-0-python"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 &nbsp;
 <a href=""><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
 &nbsp;
 <a href=""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 &nbsp;
-<a href=""><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 </p>
 
 <a href="https://github.com/Aplic-de-cloud-iot-industria-4-0-python/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&projects=&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization" target="_blank"><img src="https://user-images.githubusercontent.com/62628408/147912042-4388b29f-70d1-4928-a336-c9ea3cd991e6.png" alt="communitypro welcome image"></a>
