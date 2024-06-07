@@ -1,7 +1,7 @@
-name: nlw-education API delete
-description: Delete me from the nlw-education API. By opting-out your previously recorded stats will get deleted as well.
-title: "Please delete me from the LTD-cyber-security API"
-labels: [LTD-cyber-security-API-delete]
+name: Aplic-de-cloud-iot-industria-4-0-python API delete
+description: Delete me from the Aplic-de-cloud-iot-industria-4-0-python API. By opting-out your previously recorded stats will get deleted as well.
+title: "Please delete me from the Aplic-de-cloud-iot-industria-4-0-python API"
+labels: [Aplic-de-cloud-iot-industria-4-0-python-API-delete]
 body:
   - type: input
     id: discordname
@@ -14,4 +14,4 @@ body:
     attributes:
       value: |
         You can also join our Discord community [here](http://discord)
-        Feel free to check out other cool repositories of the LTD-cyber-security Community [here](https://github.com/LTD-cyber-security)
+        Feel free to check out other cool repositories of the Aplic-de-cloud-iot-industria-4-0-python Community [here](https://github.com/Aplic-de-cloud-iot-industria-4-0-python)
