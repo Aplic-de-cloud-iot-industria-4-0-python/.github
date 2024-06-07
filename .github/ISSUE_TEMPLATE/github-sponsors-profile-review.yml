@@ -1,0 +1,16 @@
+name: GitHub Sponsors Profile Review
+description: Please review my GitHub Sponsors profile on a livestream
+title: "[REVIEW] <profile name here>"
+labels: [gh sponsor review, live stream review]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: GitHub Sponsor profile link
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        You can also join our Discord community [here](http://discord.Aplic-de-cloud-iot-industria-4-0-python)
+        Feel free to check out other cool repositories of the Aplic-de-cloud-iot-industria-4-0-python Community [here](https://github.com/Aplic-de-cloud-iot-industria-4-0-python)
