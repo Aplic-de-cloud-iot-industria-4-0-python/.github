@@ -43,7 +43,7 @@ Estamos ansiosos para colaborar com você!
 
 <br>
 
-<p align="center">Join our <a href="https://github.com/Aplic-de-cloud-iot-industria-4-0-python//support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">GitHub Organization :octocat:</a> and continue to contribute to our Open Source Software ✨</p>
+<p align="center">Join our <a href="https://github.com/Aplic-de-cloud-iot-industria-4-0-python/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&projects=&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">GitHub Organization :octocat:</a> and continue to contribute to our Open Source Software ✨</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"><strong>Connect With Us</strong></p>
